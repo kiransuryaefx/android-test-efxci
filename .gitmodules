@@ -1,3 +1,3 @@
 [submodule "submodule"]
 	path = submodule
-	url = git@github.com:kiransuryaefx/graphQL.git
+	url = git@gitlab.electrifex.com:efx-cicd/efxci-infra-k8s.git
