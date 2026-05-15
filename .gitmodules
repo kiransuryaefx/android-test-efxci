@@ -1,4 +1,3 @@
 [submodule "submodule"]
 	path = submodule
-	url = https://gitlab.electrifex.com/efx-cicd/efxci-infra-k8s.git
-	branch = develop
+	url = git@gitlab.electrifex.com:efx-cicd/submodule-test.git
